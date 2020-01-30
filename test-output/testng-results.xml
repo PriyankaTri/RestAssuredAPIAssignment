@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5658" started-at="2020-01-30T05:29:29Z" finished-at="2020-01-30T05:29:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5658" started-at="2020-01-30T05:29:29Z" finished-at="2020-01-30T05:29:35Z">
+      <class name="com.resreqapitest.qa.com.TestResreqApi">
+        <test-method status="PASS" signature="getPropertiesData()[pri:0, instance:com.resreqapitest.qa.com.TestResreqApi@5442a311]" name="getPropertiesData" is-config="true" duration-ms="10" started-at="2020-01-30T05:29:29Z" finished-at="2020-01-30T05:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPropertiesData -->
+        <test-method status="PASS" signature="getAllUser()[pri:1, instance:com.resreqapitest.qa.com.TestResreqApi@5442a311]" name="getAllUser" duration-ms="1830" started-at="2020-01-30T05:29:29Z" finished-at="2020-01-30T05:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUser -->
+        <test-method status="PASS" signature="getSingleUser()[pri:2, instance:com.resreqapitest.qa.com.TestResreqApi@5442a311]" name="getSingleUser" duration-ms="59" started-at="2020-01-30T05:29:31Z" finished-at="2020-01-30T05:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleUser -->
+        <test-method status="PASS" signature="postData()[pri:3, instance:com.resreqapitest.qa.com.TestResreqApi@5442a311]" name="postData" duration-ms="768" started-at="2020-01-30T05:29:31Z" finished-at="2020-01-30T05:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+        <test-method status="PASS" signature="updateData()[pri:4, instance:com.resreqapitest.qa.com.TestResreqApi@5442a311]" name="updateData" duration-ms="476" started-at="2020-01-30T05:29:32Z" finished-at="2020-01-30T05:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateData -->
+        <test-method status="PASS" signature="checkLoginSuccessful()[pri:5, instance:com.resreqapitest.qa.com.TestResreqApi@5442a311]" name="checkLoginSuccessful" duration-ms="298" started-at="2020-01-30T05:29:32Z" finished-at="2020-01-30T05:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoginSuccessful -->
+        <test-method status="PASS" signature="checkLoginUnsuccessful()[pri:6, instance:com.resreqapitest.qa.com.TestResreqApi@5442a311]" name="checkLoginUnsuccessful" duration-ms="491" started-at="2020-01-30T05:29:33Z" finished-at="2020-01-30T05:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoginUnsuccessful -->
+        <test-method status="PASS" signature="registerSuccessful()[pri:7, instance:com.resreqapitest.qa.com.TestResreqApi@5442a311]" name="registerSuccessful" duration-ms="404" started-at="2020-01-30T05:29:33Z" finished-at="2020-01-30T05:29:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerSuccessful -->
+        <test-method status="PASS" signature="registerUnsuccessful()[pri:8, instance:com.resreqapitest.qa.com.TestResreqApi@5442a311]" name="registerUnsuccessful" duration-ms="513" started-at="2020-01-30T05:29:34Z" finished-at="2020-01-30T05:29:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUnsuccessful -->
+        <test-method status="PASS" signature="getListOfResources()[pri:9, instance:com.resreqapitest.qa.com.TestResreqApi@5442a311]" name="getListOfResources" duration-ms="419" started-at="2020-01-30T05:29:34Z" finished-at="2020-01-30T05:29:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfResources -->
+        <test-method status="PASS" signature="singleResourseNotFound()[pri:10, instance:com.resreqapitest.qa.com.TestResreqApi@5442a311]" name="singleResourseNotFound" duration-ms="348" started-at="2020-01-30T05:29:35Z" finished-at="2020-01-30T05:29:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleResourseNotFound -->
+      </class> <!-- com.resreqapitest.qa.com.TestResreqApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
